@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is hassan
 #### Full Stack Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a passionate full-stack developer from Stockholm Sweden. Programming got into my life since my teenage and has never left. I'm currently working as a Full Stack Developer in a swedish company and learning Node.js and DevOps on my spare time.
 
 Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 
