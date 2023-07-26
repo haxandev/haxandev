@@ -9,7 +9,7 @@ I'm a passionate full-stack developer from Stockholm Sweden. Programming got int
 
 Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 
-- 🔭 I’m currently working on Viaplay 
+- 🔭 I’m currently working as a Backend Developer 
 - 🌱 I’m currently learning Typescript, Node.js, AWS
 - 🚀 2023 Goals: Learn DevOps, Docker & Typescript
 - ⚡ Fun fact: I spend 6 hours every day for coding
