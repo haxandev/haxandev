@@ -9,8 +9,10 @@ I'm a passionate full-stack developer from Stockholm Sweden. Programming got int
 
 Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 
-<a href="https://stackoverflow.com/users/6838771/hassan" alt="Stackoverflow">
+<p>
+<a href="https://stackoverflow.com/users/6838771/hassan" target="_blank" alt="Stackoverflow">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6838771/hassan" /></a>
+</p>
 
 - 🔭 I’m currently working as a Backend Developer 
 - 🌱 I’m currently learning Typescript, Node.js, AWS
@@ -24,10 +26,10 @@ Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 </p>
 
 <p align="left">
-  <a href="mailto:muhammadhaxxan30@gmail.com" alt="Gmail">
+  <a href="mailto:muhammadhaxxan30@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=muhammadhaxxan30@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/muhammad-hassan-8b7142140/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/muhammad-hassan-8b7142140/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hassan-8b7142140/" /></a>
 
 </p>
