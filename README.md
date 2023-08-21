@@ -9,10 +9,14 @@ I'm a passionate full-stack developer from Stockholm Sweden. Programming got int
 
 Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 
+<a href="[https://www.linkedin.com/in/muhammad-hassan-8b7142140/](https://stackoverflow.com/users/6838771/hassan)" alt="Stackoverflow">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6838771/hassan" /></a>
+
 - 🔭 I’m currently working as a Backend Developer 
 - 🌱 I’m currently learning Typescript, Node.js, AWS
 - 🚀 2023 Goals: Learn DevOps, Docker & Typescript
 - ⚡ Fun fact: I spend 6 hours every day for coding
+
 
 
 <p align="left">
@@ -25,8 +29,5 @@ Skills: NODE JS / REACT / PHP / LARAVEL / AWS
 
   <a href="https://www.linkedin.com/in/muhammad-hassan-8b7142140/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hassan-8b7142140/" /></a>
-
-  <a href="[https://www.linkedin.com/in/muhammad-hassan-8b7142140/](https://stackoverflow.com/users/6838771/hassan)" alt="Stackoverflow">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6838771/hassan" /></a>
 
 </p>
