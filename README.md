@@ -14,9 +14,9 @@ Skills: NODE JS / REACT / PHP / LARAVEL / AWS
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6838771/hassan" /></a>
 </p>
 
-- 🔭 I’m currently working as a Backend Developer 
-- 🌱 I’m currently learning Typescript, Node.js, AWS
-- 🚀 2023 Goals: Learn DevOps, Docker & Typescript
+- 🔭 Currently working as a Backend Developer 
+- 🌱 Learning Typescript, Node.js, AWS
+- 🚀 2024 Goals: Learn DevOps, Docker & Typescript
 - ⚡ Fun fact: I spend 6 hours every day for coding
 
 
