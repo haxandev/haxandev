@@ -2,7 +2,7 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Muhammad Hassan | 💻 Full Stack Developer | 🛸  Sweden - Stockholm <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-I'm a passionate full-stack developer from Stockholm Sweden. Programming got into my life since my teenage and has never left. I'm currently working as a Full Stack Developer in a swedish company and learning Node.js and DevOps on my spare time.
+I'm a passionate full-stack developer living in Stockholm Sweden. Programming got into my life since my teenage and has never left. I'm currently working as a Full Stack Developer in a swedish company and learning Node.js and DevOps on my spare time.
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
