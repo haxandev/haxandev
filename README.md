@@ -15,7 +15,7 @@ Skills: TYPESCRIPT / NODE JS / REACT / AWS / PHP / LARAVEL
 </p>
 
 - 🔭 Currently working as a Backend Developer 🚀
-- 🌱 Learning Typescript, Node.js, AWS
+- 🌱 Learning DevOps, AI-assisted development, AWS
 - ⚡ Fun fact: I spend 6 hours every day for coding
 
 
