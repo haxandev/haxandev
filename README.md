@@ -7,16 +7,15 @@ I'm a passionate full-stack developer living in Stockholm Sweden. Programming go
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Skills: TYPESCRIPT / NODE JS / REACT / PHP / LARAVEL / AWS
+Skills: TYPESCRIPT / NODE JS / REACT / AWS / PHP / LARAVEL
 
 <p>
 <a href="https://stackoverflow.com/users/6838771/hassan" target="_blank" alt="Stackoverflow">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/6838771/hassan" /></a>
 </p>
 
-- 🔭 Currently working as a Backend Developer 
+- 🔭 Currently working as a Backend Developer 🚀
 - 🌱 Learning Typescript, Node.js, AWS
-- 🚀 2024 Goals: Learn DevOps, Docker & Typescript
 - ⚡ Fun fact: I spend 6 hours every day for coding
 
 
